@@ -36,7 +36,7 @@ Implemented a 3-stage pipelined RISC-V CPU supporting RV32I instruction set on X
 ## Files Included
 - `cpu.v`: Main CPU implementation (812 lines)
 - `reg_file.v`: Integer register file with bypass logic
-- `Checkpoint1_Answers.pdf`: Design decisions, pipeline analysis, and architectural Q&A
+- `CPU_Design_Documentation.pdf`: Design decisions, pipeline analysis, and architectural Q&A
 - `cpu_diagram_main.pdf`: Detailed block diagram with pipeline stages and control paths
 
 ## Academic Integrity Notice
