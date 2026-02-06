@@ -35,7 +35,4 @@ Implemented a 3-stage pipelined RISC-V CPU supporting RV32I instruction set on X
 - `CPU_Design_Documentation.pdf`: Design decisions, pipeline analysis, and architectural Q&A
 - `cpu_diagram_main.pdf`: Detailed block diagram with pipeline stages and control paths
 
-## Academic Integrity Notice
-This code is maintained as a private repository in accordance with UC Berkeley EECS 151 academic integrity policies. Access is granted only to potential employers, graduate schools, or recommendation letter writers upon request.
-
 **Contact:** fire103103@gmail.com
