@@ -1,6 +1,5 @@
 # 3-Stage Pipelined RISC-V CPU
 
-**Course:** UC Berkeley EECS 151/251A (Fall 2025)  
 
 ## Overview
 Implemented a 3-stage pipelined RISC-V CPU supporting RV32I instruction set on Xilinx PYNQ-Z1 FPGA during my exchange semester at UC Berkeley.
