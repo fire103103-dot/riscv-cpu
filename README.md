@@ -9,8 +9,6 @@ Implemented a 3-stage pipelined RISC-V CPU supporting RV32I instruction set on X
 - `reg_file.v`: 32x32-bit register file with write-first bypass logic
 - Design documents: Detailed pipeline diagram and architectural decision documentation
 
-**Note:** University-provided infrastructure (memories, testbenches, I/O circuits) is NOT included to respect academic integrity. This repository is kept private in accordance with UC Berkeley EECS 151 course policies.
-
 ## Performance Metrics
 - **CPI:** 1.188 @ 50 MHz
 - **Resource Usage:** 1,894 LUTs, 1,590 registers, 36 BRAMs
