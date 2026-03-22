@@ -20,8 +20,7 @@ Implemented a 3-stage pipelined RISC-V CPU supporting RV32I instruction set on X
    - Adapted from classic 5-stage pipeline due to FPGA Block RAM synchronous read requirements
 2. **Full Data Forwarding:** From EX/MEM and MEM/WB stages to both ALU inputs and store data path
 3. **Load-Use Hazard Handling:** 1-cycle stall with forwarding from MEM/WB stage
-4. **Branch Prediction:** Predict-not-taken with 1-cycle flush penalty
-5. **Memory Architecture:** Separate BIOS, instruction, and data memories with MMIO support
+4. **Memory Architecture:** Separate BIOS, instruction, and data memories with MMIO support
 
 ## Technical Implementation
 - **Hazard Detection:** Automatic detection of load-use dependencies with pipeline stalling
