@@ -25,7 +25,7 @@ Implemented a 3-stage pipelined RISC-V CPU supporting RV32I instruction set on X
 ## Technical Implementation
 - **Hazard Detection:** Automatic detection of load-use dependencies with pipeline stalling
 - **Control Logic:** Combinational decoder with comprehensive opcode support
-- **MMIO:** UART communication, cycle counter, instruction counter, branch prediction counters
+- **MMIO:** UART communication, cycle counter, instruction counter
 - **Memory Access:** Byte-aligned load/store operations with sign/zero extension
 
 ## Files Included
